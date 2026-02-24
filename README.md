@@ -157,11 +157,12 @@ Run online_retail.ipynb
 
 
 - Project Structure :
+
 online-retail-eda/
-│
-├── online_retail.ipynb     # Main Jupyter notebook
-├── README.md               # Project documentation
-└── data/Online Retail.xlsx # Dataset (included)
+
+── online_retail.ipynb     # Main Jupyter notebook
+── README.md               # Project documentation
+── Online Retail.xlsx      # Dataset 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
