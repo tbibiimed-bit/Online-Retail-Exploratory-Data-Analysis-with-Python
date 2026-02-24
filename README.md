@@ -136,7 +136,7 @@ The dataset includes transactions from multiple countries, with the majority com
 
 Clone this repository:
 
-git clone https://github.com/yourusername/online-retail-eda.git
+git clone [https://github.com/yourusername/online-retail-eda.git](https://github.com/tbibiimed-bit/Online-Retail-Exploratory-Data-Analysis-with-Python.git)
 
 Navigate into the project directory:
 
